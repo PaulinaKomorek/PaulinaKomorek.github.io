@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to bottom, #ecd3d6, #e7cbca);
+   }
+
+.github-widget {
+    background-color: rgba(247, 245, 241, 0.555);
+}
+
+.pl-custom {
+    padding-left: 120px;
+}
+
+div {
+    border: 1px solid black;
+
+}
