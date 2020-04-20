@@ -1,18 +1,14 @@
 body {
-    background-image: linear-gradient(to bottom, #ecd3d6, #e7cbca);
-}
+    background-image: url("background.jpg")}
 
 .github-widget {
-    background-color: rgba(247, 245, 241, 0.555);
+    background-color: rgba(247, 245, 241, 0.755);
 }
 
 .pl-custom {
     padding-left: 120px;
 }
 
-.container {
-    background-image: url('github_panda.png');
-    background-repeat: no-repeat;
-    background-position: left bottom;
-    background-size: 40% 40%;
+hr {
+    border: 2px solid white
 }
