@@ -3,10 +3,11 @@ body {
 
 .github-widget {
     background-color: rgba(247, 245, 241, 0.755);
+    margin: 0 auto
 }
 
 .pl-custom {
-    padding-left: 120px;
+    text-align: center;
 }
 
 hr {
